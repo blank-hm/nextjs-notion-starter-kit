@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Blank',
-  domain: 'https://www.notion.so/Club-Homepage-ecd973e2ff2a489bbf968113b13f48a4',
+  domain: 'www.notion.so/Club-Homepage-ecd973e2ff2a489bbf968113b13f48a4',
   author: '韩梦',
 
   // open graph metadata (optional)
