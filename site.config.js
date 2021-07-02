@@ -12,7 +12,7 @@ module.exports = {
   author: '韩梦',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '个人博客，主要记录技术心得',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
