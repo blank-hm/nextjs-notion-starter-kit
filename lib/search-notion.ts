@@ -12,6 +12,7 @@ async function searchNotionImpl(
 ): Promise<types.SearchResults> {
   return fetch(api.searchNotion, {
     method: 'POST',
+    
     mode: 'no-cors',
     body: JSON.stringify(params),
     headers: {
